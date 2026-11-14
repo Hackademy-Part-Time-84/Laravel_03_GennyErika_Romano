@@ -1,0 +1,2 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+body{background:#f7f5f0;color:#252525}.navbar-brand{letter-spacing:.08em;font-weight:800}.hero{background:#24352d;color:white;border-radius:1rem}.article-card{height:100%;border:0;box-shadow:0 8px 24px rgba(0,0,0,.06)}.article-card img{height:210px;object-fit:cover}.article-cover{width:100%;max-height:430px;object-fit:cover;border-radius:1rem}footer{background:#24352d;color:white}
